@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Footer = () => {
   return (
-    <div className='bg-dark text-light p-5 text-center'>
+    <div className='bg-dark text-light p-5 text-center main'>
         All right are resloved to the Job Search Site
         <br></br>
         <i className="fa-brands fa-facebook"></i> {""}
